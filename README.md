@@ -108,7 +108,7 @@ $ npm install
 
 | <a href="https://github.com/CallmeMehdi" target="_blank">**Mehdi Mabrouki**</a> | <a href="http://fvcproductions.com" target="_blank">**Sami Elleuch**</a> | <a href="https://github.com/ouerf-man" target="_blank">**Raed Ouerfelli**</a> |
 | <a href="https://github.com/amiradridi" target="_blank">**Amira Dridi**</a> | <a href="https://github.com/aymenletifi" target="_blank">**Aymen Letifi**</a> | <a href="https://github.com/ZakariaNaaija" target="_blank">**Zakaria Naaija**</a> |
-| :---: |:---:| :---:| :---: |:---:| :---:|
+| :---: |:---:| :---:|| :---: |:---:| :---:|
 | [![Mehdi Mabrouki](https://avatars3.githubusercontent.com/u/47258917?&v=3&s=200)](https://github.com/CallmeMehdi)    | [![Sami Elleuch](https://avatars1.githubusercontent.com/u/45316444?v=3&s=200)](https://github.com/Samielleuch) | [![Raed Ouerfelli](https://avatars1.githubusercontent.com/u/38401226?v=3&s=200)](https://github.com/ouerf-man)  |
 |[![Amira Dridi](https://avatars3.githubusercontent.com/u/24782374?v=3&s=200)](https://github.com/amiradridi)    | [![Aymen Letifi](https://avatars3.githubusercontent.com/u/46798492?v=3&s=200)](https://github.com/aymenletifi) | [![Zakaria Naaija](https://avatars0.githubusercontent.com/u/34416546?v=3&s=200)](https://github.com/ZakariaNaaija)  |
 | <a href="https://github.com/CallmeMehdi" target="_blank">`github.com/CallmeMehdi`</a> | <a href="https://github.com/Samielleuch" target="_blank">`github.com/Samielleuch`</a> | <a href="https://github.com/ouerf-man" target="_blank">`github.com/ouerf-man`</a> |
