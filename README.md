@@ -128,7 +128,8 @@ $ npm install
 
 ## FAQ
 
-- **Most Frequently Asked Questions about our website**
+- **Most Frequently Asked Questions about our website:**
+
     -<a href="https://neghlbouh.now.sh/FAQ" target="_blank">FAQ</a>
 
 ---
