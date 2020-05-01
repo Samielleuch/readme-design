@@ -40,7 +40,7 @@
 
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Neghlbouh Team](#team)
+- [Neghlbouh Team](#Neghlbouh Team)
 - [FAQ](#faq)
 - [License](#license)
 
