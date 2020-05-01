@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#KeyFeatures">Key Features</a> •
+  <a href="#installation">How To Use</a> •
+  <a href="#faq">FAQ</a> •
+  <a href="#team">The Team </a> •
+  <a href="#contributing">Contribute</a> •
   <a href="#license">License</a>
 </p>
 
@@ -45,7 +45,7 @@
 
 
 ---
-**Main functionalities of our website**
+## Key Features 
 
 - Create an account
 - Fill in the form 
@@ -55,23 +55,13 @@
 - Statistics about your current area
 - etc.
 
+<p align="center">
+	<img src="https://i.imgur.com/xtGcyHr.png" />
+</p>
 
 
-***Neghlbouh***
 
-[![Demo photo](https://i.imgur.com/XpL7ABq.png?s=200)]()
-
----
-
-
-**Live Demo**
-
-![Recordit GIF](http://g.recordit.co/XilqtPwCJF.gif)
-
-
----
-
-## Table of Contents (Optional)
+## Table of Contents
 
 > `Contents` of this documentation.
 
