@@ -16,18 +16,20 @@
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+  <a href="https://sonarcloud.io/dashboard?id=Samielleuch_Neghlbouh">
+    <img
+	 src="https://sonarcloud.io/api/project_badges/measure?project=Samielleuch_Neghlbouh&metric=alert_status">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+ <a href="https://sonarcloud.io/dashboard?id=Samielleuch_Neghlbouh">
+    <img
+	 src="https://sonarcloud.io/api/project_badges/measure?project=Samielleuch_Neghlbouh&metric=security_rating">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://sonarcloud.io/dashboard?id=Samielleuch_Neghlbouh">
+    <img
+	 src="https://sonarcloud.io/api/project_badges/measure?project=Samielleuch_Neghlbouh&metric=sqale_rating">
+  </a> 	
 </p>
+
 
 <p align="center">
   <a href="#KeyFeatures">Key Features</a> •
