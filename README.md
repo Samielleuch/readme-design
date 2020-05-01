@@ -130,7 +130,7 @@ $ npm install
 
 - **Most Frequently Asked Questions about our website:**
 
-    -<a href="https://neghlbouh.now.sh/FAQ" target="_blank">FAQ</a>
+    -You can find the answers in our webpage's <a href="https://neghlbouh.now.sh/FAQ" target="_blank">FAQ</a>
 
 ---
 
@@ -139,7 +139,7 @@ $ npm install
 Reach out to me at one of the following places!
 
 - Website at <a href="https://neghlbouh.now.sh" target="_blank">`neghlbouh.now.sh`</a>
-- Facebook at <a href="https://www.facebook.com/Neghlbouh" target="_blank">`@Neghlbouh`</a>
+- Facebook at <a href="https://www.facebook.com/Neghlbouh" target="_blank">`facebook.com/Neghlbouh`</a>
 
 ---
 
