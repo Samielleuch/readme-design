@@ -40,7 +40,7 @@
 
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Neghlbouh Team](#Neghlbouh Team)
+- [Neghlbouh Team](#team)
 - [FAQ](#faq)
 - [License](#license)
 
@@ -103,7 +103,7 @@ $ npm install
 
 ---
 
-## Neghlbouh Team
+## Team
 
 
 | <a href="https://github.com/CallmeMehdi" target="_blank">**Mehdi Mabrouki**</a> | <a href="http://fvcproductions.com" target="_blank">**Sami Elleuch**</a> | <a href="https://github.com/ouerf-man" target="_blank">**Raed Ouerfelli**</a> |
