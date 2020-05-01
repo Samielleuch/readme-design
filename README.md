@@ -21,9 +21,9 @@
 
 
 ***Neghlbouh***
-
+<center>
 [![Demo photo](https://i.imgur.com/xtGcyHr.png)]()
-
+</center>
 ---
 
 
