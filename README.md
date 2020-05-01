@@ -22,7 +22,9 @@
 
 ***Neghlbouh***
 
-<div style="text-align:center"><img src="https://i.imgur.com/xtGcyHr.png" /></div>
+<p align="center">
+	<img src="https://i.imgur.com/xtGcyHr.png" />
+</p>
 
 ---
 
