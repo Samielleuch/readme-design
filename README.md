@@ -30,7 +30,6 @@
   </a> 	
 </p>
 
-
 <p align="center">
   <a href="#KeyFeatures">Key Features</a> •
   <a href="#installation">How To Use</a> •
@@ -45,17 +44,26 @@
 
 ![Recordit GIF](http://g.recordit.co/XilqtPwCJF.gif)
 
+---
+
+## Developed Using 
+- NodeJs ExpressJs PassportJs JWT and Mongoose for the Backend
+- VueJs Vuex Vuetify for the frontend 
 
 ---
 ## Key Features 
 
-- Create an account
-- Fill in the form 
-- Watch a real-time simulation of people in the map
-- Pieces of advice about the COVID-19 situation
-- Personal Dashboard with all personal information
-- Statistics about your current area
-- etc.
+- secure account creation + login 
+- a realtime visualization of people that are currently outside on our map by zones
+- a personal account dashBoard
+- personlalized statistics of your profile's zone that show the ammount of people outside  by the hour  
+- ability to view your personal information and change them if you wish to do so 
+- abilty to securely log your departure to our servers by filling a small form , this will update the map in realtime
+- departures have an expirey date that you specify , a departure that passes its expirey date will automatically change     state and be removed from the map's count pool 
+- ability to cancel a departure if you changed your mind and decided not to leave the house 
+- abilty to view the history of your departures and their states
+- advice page that contains  covid-19 hygiene rules 
+- faq page that answers most commun questions
 
 <p align="center">
 	<img src="https://i.imgur.com/xtGcyHr.png" />
